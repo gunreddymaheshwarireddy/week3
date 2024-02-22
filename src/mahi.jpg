@@ -1,0 +1,26 @@
+import logo from './logo.svg';
+import './App.css';
+
+function App() {
+  return (
+    <div>
+      <div class="container">
+        <h1>Hello World!</h1>
+      </div>
+      <hr></hr>
+
+      <div class="container">
+        <h1>Name: maheshwari</h1>
+        <h1>Roll.No: 2211cs010211</h1>
+        <h1>Group: 8a</h1>
+      </div>
+
+      <hr></hr>
+      <div class="container">
+      <img src="mahi.jpg" alt="photo" width="200px" height="200px"></img>
+      </div>
+    </div>
+  );
+}
+
+export default App;
